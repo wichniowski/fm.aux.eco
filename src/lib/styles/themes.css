@@ -1,0 +1,37 @@
+.light-theme {
+  --background-base: #ffffff;
+  --background-base-highlight: #e0e0e0;
+  --text-primary: #0000ff;
+  --text-base: #000000;
+  --essential-primary: #0000ff;
+  --decorative-base: #000000;
+}
+
+.dark-theme {
+  --background-base: #000000;
+  --background-base-highlight: #292929;
+  --essential-primary: #0000ff;
+  --text-primary: #0000ff;
+  --text-base: #ffffff;
+  --decorative-base: #ffffff;
+}
+
+html {
+  background: var(--background-base);
+}
+
+.base {
+  font-family: monospace, sans-serif;
+  --space-s: 5px;
+  --space-m: 10px;
+  --space-l: 15px;
+  --space-xl: 20px;
+  --space-xxl: 30px;
+  --space-3xl: 60px;
+  --border-width: 2px;
+  background: var(--background-base);
+}
+
+.base circle {
+  fill: var(--decorative-base);
+}
