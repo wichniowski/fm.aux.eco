@@ -2,6 +2,8 @@
 
 A utilitarian radio application
 
+![screenshot](./screenshot.png)
+
 ## Development
 
 ```bash
