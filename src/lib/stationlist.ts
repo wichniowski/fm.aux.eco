@@ -118,14 +118,14 @@ const stations = [
       "Rinse is at the centre of a vast musical community. As genres, artists and scenes evolve and fragment, so Rinse remains locked to the pulse of the underground.",
   },
   {
-    name: "Techno Underground",
-    id: "tu",
-    hashtag: "tu",
-    url: "https://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171",
+    name: "Refuge Worldwide",
+    id: "rw",
+    hashtag: "rw",
+    url: "https://streaming.radio.co/s3699c5e49/listen",
     img: "",
     link: "",
     description:
-      "Minimal, Detroit Techno, Schranz. The spirit of Berlin's clubs.",
+      "Refuge Worldwide is a community radio station and fundraising platform based in Berlin.",
   },
 ];
 
