@@ -1,19 +1,19 @@
 .light-theme {
-  --background-base: #ffffff;
-  --background-base-highlight: #e0e0e0;
-  --text-primary: #0000ff;
-  --text-base: #000000;
-  --essential-primary: #0000ff;
-  --decorative-base: #000000;
+  --background-base: #d1d1d1;
+  --background-base-highlight: #e8e8e8;
+  --text-primary: #2d4739;
+  --text-base: #1a1a1a;
+  --essential-primary: #2d4739;
+  --decorative-base: #505050;
 }
 
 .dark-theme {
-  --background-base: #000000;
-  --background-base-highlight: #292929;
-  --essential-primary: #0000ff;
-  --text-primary: #0000ff;
-  --text-base: #ffffff;
-  --decorative-base: #ffffff;
+  --background-base: #232323;
+  --background-base-highlight: #2f2f2f;
+  --essential-primary: #a3b5ae;
+  --text-primary: #a3b5ae;
+  --text-base: #e8e8e8;
+  --decorative-base: #808080;
 }
 
 html {
@@ -21,7 +21,6 @@ html {
 }
 
 .base {
-  font-family: monospace, sans-serif;
   --space-s: 5px;
   --space-m: 10px;
   --space-l: 15px;

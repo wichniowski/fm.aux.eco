@@ -6,13 +6,15 @@
 	import StationList from '$lib/components/StationList.svelte';
 </script>
 
-<div class="base {$currentTheme} mx-auto flex min-h-screen flex-col">
-	<div class="sticky top-0 z-50 bg-[var(--background-base)]">
+<div class="base {$currentTheme} mx-auto flex h-screen flex-col">
+	<div class="flex-none bg-[var(--background-base)]">
 		<Header />
 		<NowPlaying />
 	</div>
-	<main class="bg-[var(--background-base)]">
+	<main class="flex-1 overflow-y-auto bg-[var(--background-base)]">
 		<StationList />
 	</main>
-	<Footer />
+	<div class="flex-none">
+		<Footer />
+	</div>
 </div>
