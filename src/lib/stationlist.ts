@@ -20,16 +20,6 @@ export type Station = {
 
 const stations = [
   {
-    name: "The Lot",
-    hashtag: "thelot",
-    id: "LOT",
-    url: "https://streamingv2.shoutcast.com/the-lot-radio",
-    img: "./station-logos/thelot.png",
-    link: "https://www.thelotradio.com/",
-    description:
-      "We are an independent, non-profit, online radio station live streaming 24/7 from a reclaimed shipping container on an empty lot in NYC.",
-  },
-  {
     name: "NTS 1",
     hashtag: "nts1",
     id: "NTS",
