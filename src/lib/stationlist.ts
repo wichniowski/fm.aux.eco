@@ -88,8 +88,8 @@ const stations = [
     description: "An award winning radio station with a global audience.",
   },
   {
-    name: "Soeul Community Radio",
-    id: "soeulcommunityradio",
+    name: "Seoul Community Radio",
+    id: "seoulcommunityradio",
     hashtag: "scr",
     url: "http://188.166.198.223/radio/8000/radio.mp3",
     img: "./station-logos/scr.png",
@@ -126,6 +126,16 @@ const stations = [
     link: "",
     description:
       "ByteFM ist moderiertes Musik- und Kultur-Radio aus Hamburg",
+  },
+   {
+    name: "Radio Buena Vida",
+    id: "rbv",
+    hashtag: "rbv",
+    url: "https://s4.radio.co/s69b281ac0/listen",
+    img: "",
+    link: "https://buenavida.co.uk/get-involved/",
+    description:
+      "Radio Buena Vida first went on air in October 2020, live from local independent record store from Glasgow",
   },
 ];
 
