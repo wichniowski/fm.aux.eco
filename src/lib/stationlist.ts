@@ -135,7 +135,7 @@ const stations = [
     img: "",
     link: "https://buenavida.co.uk/get-involved/",
     description:
-      "Radio Buena Vida first went on air in October 2020, live from local independent record store from Glasgow",
+      "Radio Buena Vida first went on air in October 2020, live from Glasgow",
   },
 ];
 
