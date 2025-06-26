@@ -117,6 +117,16 @@ const stations = [
     description:
       "Refuge Worldwide is a community radio station and fundraising platform based in Berlin.",
   },
+  {
+    name: "Byte FM",
+    id: "byte",
+    hashtag: "bytefm",
+    url: "https://uplink.byte.fm/bytefm-main/mp3-128/?ar-distributor=ffa0",
+    img: "",
+    link: "",
+    description:
+      "ByteFM ist moderiertes Musik- und Kultur-Radio aus Hamburg",
+  },
 ];
 
 export { stations };
